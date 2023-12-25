@@ -10,3 +10,9 @@ document.querySelector(".btn_showname").addEventListener("click",function () {
     alert(useName)
     
 })
+
+// let array=[]
+// array.push("1")
+// localStorage["idan"]=array
+// console.log(location["idan"])
+
